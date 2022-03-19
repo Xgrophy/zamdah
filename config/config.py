@@ -60,7 +60,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/kenkansaja/Musikku",
+    "https://github.com/Cangcimenn/musi",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Musikku")
 
@@ -69,11 +69,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/musikkuchannel"
-)  # Example:- https://t.me/musikkuchannel
+    "SUPPORT_CHANNEL", "https://t.me/GrovyUpdates"
+)  # Example:- https://t.me/GrovyUpdates
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/musikkugroup"
-)  # Example:- https://t.me/musikkugroup
+    "SUPPORT_GROUP", "https://t.me/GrovySupport"
+)  # Example:- https://t.me/GrovySupport
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
