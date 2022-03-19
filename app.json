@@ -69,11 +69,11 @@
       },
       "MUST_JOIN": {
         "description": "Isi dengan username channel atau group tanpa @",
-        "value": "musikkuchannel"
+        "value": "GrovyUpdates"
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/kenkansaja/Musikku",
+        "value": "https://github.com/Cangcimenn/musi",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -83,12 +83,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Tautan Channel Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/musikkuchannel",
+        "value": "https://t.me/GrovyUpdates",
         "required": false
       },
       "SUPPORT_GROUP": {
         "description": "Tautan Group Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/musikkugroup",
+        "value": "https://t.me/GrovySupport",
         "required": false
       }
     },
