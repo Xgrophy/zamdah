@@ -226,10 +226,10 @@ stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 ᴄʟᴏsᴇ"
-CLOSEMENU_BUTTON  : "🗑 ᴄʟᴏsᴇ ᴍᴇɴᴜ"
-BACK_BUTTON : "⬅ ʙᴀᴄᴋ"
-UNBAN_BUTTON : "🗑 ᴜɴʙᴀɴ ᴀsɪssᴛᴀɴᴛ"
+CLOSE_BUTTON  : "•ᴄʟᴏsᴇ•"
+CLOSEMENU_BUTTON  : "•ᴄʟᴏsᴇ ᴍᴇɴᴜ•"
+BACK_BUTTON : "•ʙᴀᴄᴋ•"
+UNBAN_BUTTON : "•ᴜɴʙᴀɴ ᴀsɪssᴛᴀɴᴛ•"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
@@ -249,7 +249,7 @@ H_B_1 : "ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs"
 H_B_2 : "ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs"
 H_B_3 : "ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs"
 H_B_4 : "ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs"
-H_B_5 : "ᴄʟᴏsᴇ ᴍᴇɴᴜ"
+H_B_5 : "•ᴄʟᴏsᴇ ᴍᴇɴᴜ•"
 H_B_6 : "sᴜᴅᴏᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs"
 
 #PlayMode
