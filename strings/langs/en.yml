@@ -134,8 +134,8 @@ cplay_5 : "Only Channels are supported."
 cplay_6 : "You need to be the **Owner** of the channel[{0}] to connect it with this group.\n**Channel's Owner:** @{1}\n\nAlternatively you can link your group to that channel and then try connnecting with `/channelplay linked`"
 
 #Play
-play_1 : "🔄 Processing Songs..."
-play_2 : "**🏷Channel Play Mode**\n\n🔄 Processing Songs...\n**Linked Channel:** {0}"
+play_1 : "🔄 Grovy Processing Songs..."
+play_2 : "**🏷Channel Play Mode**\n\n🔄 Grovy Processing Songs...\n**Linked Channel:** {0}"
 play_3 : "Failed to Process Query!"
 play_4 : "🖇 **Admins Only Play**\nOnly Admins and Auth Users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache"
 play_5 : "Failed to process audio file.\n\nAudio File Size Should Be Less Than 100 mb"
@@ -218,7 +218,7 @@ queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0
 queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2}\n👤**Added By:** {3}"
 
 # All Streaming Lines
-stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🔦**Information: **[Here]({1})"
+stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🏮**Information: **[Here]({1})"
 stream_2 : "📡 **Started Streaming via URL ** 💡\n\n👤**Requested By:** {0}"
 stream_3 : "📡 **Started Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
 stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
@@ -249,13 +249,13 @@ H_B_1 : "ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs"
 H_B_2 : "ᴘʟᴀʏ ᴄᴏᴍᴍᴀɴᴅs"
 H_B_3 : "ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs"
 H_B_4 : "ᴇxᴛʀᴀ ᴄᴏᴍᴍᴀɴᴅs"
-H_B_5 : "Close Menu"
-H_B_6 : "SudoUser Commands"
+H_B_5 : "ᴄʟᴏsᴇ ᴍᴇɴᴜ"
+H_B_6 : "sᴜᴅᴏᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs"
 
 #PlayMode
-PM_B_1 : "DirectPlay"
-PM_B_2 : "InlineMarkup"
-PM_B_3 : "ChannelPlay"
+PM_B_1 : "ᴅɪʀᴇᴄᴛᴘʟᴀʏ"
+PM_B_2 : "ɪɴʟɪɴᴇᴍᴀʀᴋᴜᴘ"
+PM_B_3 : "ᴄʜᴀɴɴᴇʟᴘʟᴀʏ"
 
 #Play
 P_B_1 : "🎵 ᴘʟᴀʏ ᴀᴜᴅɪᴏ"
@@ -305,9 +305,9 @@ ST_B_25 : "🫂 ᴘʟᴀʏ ᴛʏᴘᴇ"
 ST_B_26 : "🗑 ᴄᴏᴍᴍᴀɴᴅ ᴄʟᴇᴀɴ"
 
 #Song
-SG_B_1 : "↗️ Open Private Chat"
-SG_B_2 : "🔊 Audio"
-SG_B_3 : "🎥 Video"
+SG_B_1 : "↗️ ᴏᴘᴇɴ ᴘʀɪᴠᴀᴛᴇ ᴄʜᴀᴛ"
+SG_B_2 : "🔊 ᴀᴜᴅɪᴏ"
+SG_B_3 : "🎥 ᴠɪᴅᴇᴏ"
 
 #Stats
 SA_B_1 : "📢 Top 10 Chat"
