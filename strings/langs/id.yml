@@ -134,8 +134,8 @@ cplay_5 : "Hanya Saluran yang didukung."
 cplay_6 : "Anda harus menjadi **Pemilik** saluran[{0}] untuk menghubungkannya dengan grup ini.\n**Pemilik Saluran:** @{1}\n\nAtau Anda dapat menautkan grup Anda ke saluran itu lalu coba sambungkan dengan `/channelplay linked`"
 
 #Bermain
-play_1 : "🔄 Memproses lagu..."
-play_2 : "**🏷Mode Putar Saluran**\n\n🔄 Memproses lagu...\n**Saluran Tertaut:** {0}"
+play_1 : "🔄 Grovy Memproses lagu..."
+play_2 : "**🏷Mode Putar Saluran**\n\n🔄 Grovy Memproses lagu...\n**Saluran Tertaut:** {0}"
 play_3 : "Gagal Memproses Kueri!"
 play_4 : "🖇 **Admin Only Play**\nHanya Admin dan Pengguna Auth yang dapat memutar musik di grup ini.\n\nUbah mode melalui /playmode dan jika Anda sudah menjadi admin, muat ulang admincache melalui /admincache"
 play_5 : "Gagal memproses file audio.\n\nUkuran File Audio Harus Kurang dari 100 mb"
@@ -226,10 +226,10 @@ stream_4 : "📡 **Memulai Streaming** \n\n**🏷Judul:** [{0}]({1})\n⌛️**Du
 # Tombol Sebaris
 
 #Tombol Umum
-CLOSE_BUTTON : "🗑 ᴛᴜᴛᴜᴘ"
-CLOSEMENU_BUTTON : "🗑 ᴛᴜᴛᴜᴘ ᴍᴇɴᴜ"
-BACK_BUTTON : "⬅ ᴋᴇᴍʙᴀʟɪ"
-UNBAN_BUTTON : "🗑 ᴜɴʙᴀɴ ᴀsɪsᴛᴇɴ"
+CLOSE_BUTTON : "•ᴛᴜᴛᴜᴘ•"
+CLOSEMENU_BUTTON : "•ᴛᴜᴛᴜᴘ ᴍᴇɴᴜ•"
+BACK_BUTTON : "•ᴋᴇᴍʙᴀʟɪ•"
+UNBAN_BUTTON : "•ᴜɴʙᴀɴ ᴀsɪsᴛᴇɴ•"
 
 #Lirik
 L_B_1 : "🚀 Periksa Lirik Sekarang"
@@ -240,7 +240,7 @@ S_B_2 : "🔧 Pengaturan"
 S_B_3 : "📨 Dukungan"
 S_B_4 : "📨 Saluran"
 S_B_5 : "✚ Tambahkan saya ke Grup Anda"
-S_B_6 : "💡 Mutualan"
+S_B_6 : "💬 Mutualan"
 S_B_7 : "👤 Pemilik Bot"
 S_B_8 : "🔎 Bagaimana Cara Menggunakannya? Menu Perintah."
 
@@ -249,7 +249,7 @@ H_B_1 : "ᴘᴇʀɪɴᴛᴀʜ ᴀᴅᴍɪɴ"
 H_B_2 : "ᴍᴀɪɴᴋᴀɴ ᴘᴇʀɪɴᴛᴀʜ"
 H_B_3 : "ᴘᴇʀɪɴᴛᴀʜ ʙᴏᴛ"
 H_B_4 : "ᴘᴇʀɪɴᴛᴀʜ ᴇᴋsᴛʀᴀ"
-H_B_5 : "ᴛᴜᴛᴜᴘ ᴍᴇɴᴜ"
+H_B_5 : "•ᴛᴜᴛᴜᴘ ᴍᴇɴᴜ•"
 H_B_6 : "ᴘᴇʀɪɴᴛᴀʜ sᴜᴅᴏᴜsᴇʀ"
 
 #PlayMode
