@@ -57,8 +57,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("musikkugroup")
-                await self.one.join_chat("musikkuchannel")
+                await self.one.join_chat("GrovySupport")
+                await self.one.join_chat("GrovyUpdates")
             except:
                 pass
             assistants.append(1)
