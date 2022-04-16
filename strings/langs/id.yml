@@ -68,15 +68,15 @@ admin_27 : "Pemutaran Putaran telah dinonaktifkan"
 
 # Awal
 start_1 : "Terima kasih telah menerima saya di {0}.\n{1} masih hidup.\n\nUntuk bantuan atau bantuan apa pun, periksa grup dan saluran dukungan kami."
-start_2 : "Halo, Nama saya {0}.\n\nSaya bot streaming telegram dengan beberapa fitur berguna. Platform pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu untuk menambahkan saya ke kelompokmu."
+start_2 : "нαι, ηαмα ѕαуα {0}.\n\nꜱᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴍᴜꜱɪᴋ ᴛᴇʟᴇɢʀᴀᴍ ʏᴀɴɢ ᴍᴇᴍᴘᴜɴʏᴀɪ ʙᴀɴʏᴀᴋ ꜰɪᴛᴜʀ ʏᴀɴɢ ʙᴇʀɢᴜɴᴀ."
 start_3 : "Selamat datang di {0}\n\nSaya tidak memerlukan **izin admin** untuk bekerja ( sampai diminta ).\n\nNama Pengguna Asisten:- @{1}\nID Asisten:- {2} "
 start_4 : "Pemilik {0}[{1}] baru saja bergabung dengan obrolan Anda."
 start_5 : "Anggota Pengguna Sudo {0}[{1}] baru saja bergabung dengan obrolan Anda."
 start_6 : "❗️ **Diperlukan Supergrup** ️\n\nHarap ubah **grup** Anda menjadi **grup super** lalu tambahkan saya kembali.\n\n**Bagaimana cara membuat grup super?**\n✅ Jadikan riwayat obrolan grup Anda **terlihat** sekali."
 
 # Membantu
-help_1 : "Klik tombol di bawah untuk informasi lebih lanjut. Jika Anda menghadapi masalah dalam perintah, Anda dapat menghubungi pemilik bot saya atau bertanya dalam obrolan dukungan.\n\nSemua perintah dapat digunakan dengan: /"
-help_2 : "Hubungi saya di PM untuk bantuan."
+help_1 : "ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ᴜɴᴛᴜᴋ ɪɴꜰᴏʀᴍᴀꜱɪ ʟᴇʙɪʜ ʟᴀɴᴊᴜᴛ. ᴊɪᴋᴀ ᴀɴᴅᴀ ᴍᴇɴɢʜᴀᴅᴀᴘɪ ᴍᴀꜱᴀʟᴀʜ ᴅᴀʟᴀᴍ ᴘᴇʀɪɴᴛᴀʜ, ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢʜᴜʙᴜɴɢɪ ᴘᴇᴍɪʟɪᴋ ʙᴏᴛ ꜱᴀʏᴀ ᴀᴛᴀᴜ ʙᴇʀᴛᴀɴʏᴀ ᴅᴀʟᴀᴍ ᴏʙʀᴏʟᴀɴ ᴅᴜᴋᴜɴɢᴀɴ.\n\nꜱᴇᴍᴜᴀ ᴘᴇʀɪɴᴛᴀʜ ᴅᴀᴘᴀᴛ ᴅɪɢᴜɴᴀᴋᴀɴ ᴅᴇɴɢᴀɴ: /"
+help_2 : "ʜᴜʙᴜɴɢɪ ꜱᴀʏᴀ ᴅɪ ᴘᴍ ᴜɴᴛᴜᴋ ʙᴀɴᴛᴜᴀɴ."
 
 # Pengaturan
 setting_1 : "⚙️ **Setelan Bot Musik**\n\n🖇**Grup:** {0}\n🔖**ID Grup:** `{1}`\n\n💡**Pilih fungsi tombol dari bawah yang ingin Anda edit atau ubah.**"
@@ -235,14 +235,14 @@ UNBAN_BUTTON : "•ᴜɴʙᴀɴ ᴀsɪsᴛᴇɴ•"
 L_B_1 : "🚀 Periksa Lirik Sekarang"
 
 # Awal
-S_B_1 : "🗒 Perintah"
-S_B_2 : "🔧 Pengaturan"
-S_B_3 : "📨 Dukungan"
-S_B_4 : "📨 Saluran"
-S_B_5 : "✚ Tambahkan saya ke Grup Anda"
+S_B_1 : "🗒 ᴘᴇʀɪɴᴛᴀʜ"
+S_B_2 : "🔧 ᴘᴇɴɢᴀᴛᴜʀᴀɴ"
+S_B_3 : "📨 ᴅᴜᴋᴜɴɢᴀɴ"
+S_B_4 : "📨 ꜱᴀʟᴜʀᴀɴ"
+S_B_5 : "✚ ᴛᴀᴍʙᴀʜᴋᴀɴ ꜱᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴀɴᴅᴀ"
 S_B_6 : "💬 Mutualan"
-S_B_7 : "👤 Pemilik Bot"
-S_B_8 : "🔎 Bagaimana Cara Menggunakannya? Menu Perintah."
+S_B_7 : "👤 ᴘᴇᴍɪʟɪᴋ ʙᴏᴛ"
+S_B_8 : "🔎 ᴄᴏᴍᴀɴᴅꜱ ᴍᴇɴᴜ"
 
 #Membantu
 H_B_1 : "ᴘᴇʀɪɴᴛᴀʜ ᴀᴅᴍɪɴ"
