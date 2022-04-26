@@ -69,11 +69,11 @@
       },
       "MUST_JOIN": {
         "description": "Isi dengan username channel atau group tanpa @",
-        "value": "GrovyUpdates"
+        "value": "SkyXBots"
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Cangcimenn/musi",
+        "value": "https://github.com/Xgrophy/zamdah",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -83,12 +83,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Tautan Channel Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/GrovyUpdates",
+        "value": "https://t.me/SkyXBots",
         "required": false
       },
       "SUPPORT_GROUP": {
         "description": "Tautan Group Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/GrovySupport",
+        "value": "https://t.me/SkylaChats",
         "required": false
       }
     },
